@@ -1,5 +1,16 @@
 const comparisons = [
   {
+    "id": "scene7",
+    "title": "Scene 7",
+    "images": [
+      "static/results/pt/all_sparse_views/notre_dame_front_facade/views_2_2/images/27335203_487553664.jpg",
+      "static/results/pt/all_sparse_views/notre_dame_front_facade/views_2_2/images/80749661_7180275066.jpg"
+    ],
+    "videos": [
+      "static/results/teaser/output_scene7.mp4"
+    ]
+  },
+  {
     "id": "scene5",
     "title": "Scene 5",
     "images": [
@@ -10,19 +21,7 @@ const comparisons = [
       "static/results/teaser/output_scene5.mp4"
     ]
   },
-  {
-    "id": "scene17",
-    "title": "Scene 17",
-    "images": [
-      "static/results/pt/all_sparse_views/notre_dame_front_facade/views_4_0/images/22923618_3392895108.jpg",
-      "static/results/pt/all_sparse_views/notre_dame_front_facade/views_4_0/images/76492687_2293746202.jpg",
-      "static/results/pt/all_sparse_views/notre_dame_front_facade/views_4_0/images/76692819_8608643093.jpg",
-      "static/results/pt/all_sparse_views/notre_dame_front_facade/views_4_0/images/99388900_7610461422.jpg"
-    ],
-    "videos": [
-      "static/results/teaser/output_scene17.mp4"
-    ]
-  },
+  
   {
     "id": "scene2",
     "title": "Scene 2",
@@ -212,17 +211,7 @@ const comparisons = [
       "static/results/teaser/output_scene18.mp4"
     ]
   },
-  {
-    "id": "scene7",
-    "title": "Scene 7",
-    "images": [
-      "static/results/pt/all_sparse_views/notre_dame_front_facade/views_2_2/images/27335203_487553664.jpg",
-      "static/results/pt/all_sparse_views/notre_dame_front_facade/views_2_2/images/80749661_7180275066.jpg"
-    ],
-    "videos": [
-      "static/results/teaser/output_scene7.mp4"
-    ]
-  },
+  
   {
     "id": "scene19",
     "title": "Scene 19",
@@ -235,6 +224,19 @@ const comparisons = [
     ],
     "videos": [
       "static/results/teaser/output_scene19.mp4"
+    ]
+  },
+  {
+    "id": "scene17",
+    "title": "Scene 17",
+    "images": [
+      "static/results/pt/all_sparse_views/notre_dame_front_facade/views_4_0/images/22923618_3392895108.jpg",
+      "static/results/pt/all_sparse_views/notre_dame_front_facade/views_4_0/images/76492687_2293746202.jpg",
+      "static/results/pt/all_sparse_views/notre_dame_front_facade/views_4_0/images/76692819_8608643093.jpg",
+      "static/results/pt/all_sparse_views/notre_dame_front_facade/views_4_0/images/99388900_7610461422.jpg"
+    ],
+    "videos": [
+      "static/results/teaser/output_scene17.mp4"
     ]
   },
   {
